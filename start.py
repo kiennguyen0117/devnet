@@ -1,4 +1,3 @@
-Stupid thing also
 #!/usr/bin/env python
 
 """
